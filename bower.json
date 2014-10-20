@@ -1,0 +1,27 @@
+
+{
+  "name": "cdp-diff",
+  "main": "./lib/cdp-diff.js",
+  "version": "0.0.1",
+  "authors": [
+    "Ajay MT <ajay.tatachar@gmail.com> (http://ajaymt.github.com)"
+  ],
+  "description": "object diffing tool used by the Cheese Diff Protocol (CDP)",
+  "moduleType": [
+    "node",
+    "globals"
+  ],
+  "keywords": [
+    "utility",
+    "cheese",
+    "object",
+    "diff"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/AjayMT/cdp-diff",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test.js"
+  ]
+}
