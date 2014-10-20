@@ -19,7 +19,6 @@ var right = {
   }
 };
 
-
 // No one needs test frameworks :D
 var tests = {
   'add/change': set,
