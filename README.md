@@ -1,5 +1,7 @@
 
 # cdp-diff
+[![Build Status](https://travis-ci.org/AjayMT/cdp-diff.svg)](https://travis-ci.org/AjayMT/cdp-diff)
+
 This is the tool used by [Cheese](http://github.com/AjayMT/cheese) to create diffs for the [Cheese Diff Protocol (CDP)](https://github.com/AjayMT/cheese/wiki/CDP). This module can be used independently in node.js as well as the browser.
 
 ## Installation
