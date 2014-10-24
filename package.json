@@ -1,7 +1,7 @@
 
 {
   "name": "cdp-diff",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "object diffing tool used by the Cheese Diff Protocol (CDP)",
   "dependencies": {},
   "main": "lib/cdp-diff.js",
