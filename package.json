@@ -1,7 +1,7 @@
 
 {
   "name": "cdp-diff",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "object diffing tool used by the Cheese Diff Protocol (CDP)",
   "dependencies": {},
   "main": "lib/cdp-diff.js",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/AjayMT/cheese.git"
+    "url": "http://github.com/AjayMT/cdp-diff.git"
   },
   "keywords": ["utility", "cheese", "object", "diff"]
 }
